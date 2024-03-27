@@ -1,0 +1,20 @@
+{
+    "name": "ucsus/hexlet-tests",
+    "type": "n",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ucsus\\HexletTests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ucsus",
+            "email": "ucsus@exbo.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
